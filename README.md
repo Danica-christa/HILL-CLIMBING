@@ -1,5 +1,5 @@
 <H1 ALIGN =CENTER>ExpNo 5 : Implement Simple Hill Climbing Algorithm</H1>
-<h3>Name: Danica Christa V</h3>
+<h3>Name: Danica Christa </h3>
 <h3>Register Number: 212223240022 </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
